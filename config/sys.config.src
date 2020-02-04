@@ -1,0 +1,3 @@
+[
+  {test_script, [{test_conf, ${TEST_CONF}}]}
+].

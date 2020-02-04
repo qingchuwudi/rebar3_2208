@@ -1,0 +1,6 @@
+-sname ${TEST_SCRIPT_NODE_NAME}
+
+-setcookie ${TEST_SCRIPT_NODE_NAME}_cookie
+
++K true
++A30
