@@ -65,7 +65,7 @@ cp `pwd`/_build/prod/rel/test_script/test_script-0.1.1.tar.gz /tmp/test_script/r
 /tmp/test_script/bin/test_script install 0.1.1
 ```
 
-check:
+check(if not crash):
 ```bash
 $ /tmp/test_script/bin/test_script versions
 Installed versions:
